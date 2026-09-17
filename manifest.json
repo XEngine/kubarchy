@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "tidusdragonh3art.kubarchy",
+  "name": "Kubarchy",
+  "version": "1.0.0",
+  "author": "tidusdragonh3art",
+  "description": "Steer your Kubernetes clusters from the bar: namespaces, pods, deployments, logs, env and metrics",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "BarWidget.qml"
+  },
+  "barWidget": {
+    "displayName": "Kubarchy",
+    "description": "Kubernetes clusters, pods, and deployments from the bar",
+    "category": "Dev",
+    "allowMultiple": false,
+    "defaultSection": "right"
+  }
+}
