@@ -15,8 +15,8 @@ import "Model.js" as Model
 // runShell below for why).
 Panel {
   id: root
-  moduleName: "tidusdragonh3art.kubarchy"
-  ipcTarget: "tidusdragonh3art.kubarchy"
+  moduleName: "xengine.kubarchy"
+  ipcTarget: "xengine.kubarchy"
 
   property var anchorItem: null
   property var hostWidget: null

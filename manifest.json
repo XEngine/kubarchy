@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "tidusdragonh3art.kubarchy",
+  "id": "xengine.kubarchy",
   "name": "Kubarchy",
   "version": "1.0.0",
-  "author": "tidusdragonh3art",
+  "author": "xengine",
   "description": "Steer your Kubernetes clusters from the bar: namespaces, pods, deployments, logs, env and metrics",
   "kinds": [
     "bar-widget"

@@ -48,16 +48,16 @@ omarchy plugin add https://github.com/XEngine/kubarchy.git --enable --yes
 Or by hand:
 
 ```bash
-git clone https://github.com/XEngine/kubarchy.git ~/.config/omarchy/plugins/tidusdragonh3art.kubarchy
+git clone https://github.com/XEngine/kubarchy.git ~/.config/omarchy/plugins/xengine.kubarchy
 omarchy-shell shell rescanPlugins
-omarchy plugin enable tidusdragonh3art.kubarchy
+omarchy plugin enable xengine.kubarchy
 ```
 
 ## Update / remove
 
 ```bash
-omarchy plugin update tidusdragonh3art.kubarchy
-omarchy plugin remove tidusdragonh3art.kubarchy
+omarchy plugin update xengine.kubarchy
+omarchy plugin remove xengine.kubarchy
 ```
 
 ## Notes on scope

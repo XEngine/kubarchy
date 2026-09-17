@@ -7,7 +7,7 @@ import qs.Ui
 // shape every other icon-plus-popup widget (clock, weather) uses.
 BarWidget {
   id: root
-  moduleName: "tidusdragonh3art.kubarchy"
+  moduleName: "xengine.kubarchy"
 
   function injectPanel() {
     var target = panelLoader.item
