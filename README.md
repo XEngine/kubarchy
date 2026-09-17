@@ -42,13 +42,13 @@ still works.
 ## Install
 
 ```bash
-omarchy plugin add https://github.com/tidusdragonh3art/kubarchy.git --enable --yes
+omarchy plugin add https://github.com/XEngine/kubarchy.git --enable --yes
 ```
 
 Or by hand:
 
 ```bash
-git clone https://github.com/tidusdragonh3art/kubarchy.git ~/.config/omarchy/plugins/tidusdragonh3art.kubarchy
+git clone https://github.com/XEngine/kubarchy.git ~/.config/omarchy/plugins/tidusdragonh3art.kubarchy
 omarchy-shell shell rescanPlugins
 omarchy plugin enable tidusdragonh3art.kubarchy
 ```
